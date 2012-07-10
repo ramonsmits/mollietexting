@@ -4,3 +4,15 @@ obj
 
 # mstest test results
 TestResults
+
+# User files
+*.user
+*.suo
+
+# NCrunch
+
+*.ncrunchsolution
+
+# Various cache folders like Resharper
+
+_*
