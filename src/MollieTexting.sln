@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exyll.MollieTexting", "Exyll.MollieTexting\Exyll.MollieTexting.csproj", "{BC69DB6E-2CDD-46FC-840C-ECDCC06BA320}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MollieTexting", "MollieTexting\MollieTexting.csproj", "{BC69DB6E-2CDD-46FC-840C-ECDCC06BA320}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exyll.MollieTextingConsole", "Exyll.MollieTextingConsole\Exyll.MollieTextingConsole.csproj", "{BE52ECD0-77E1-489E-9CBD-EAE9F267C49C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MollieTextingConsole", "MollieTextingConsole\MollieTextingConsole.csproj", "{BE52ECD0-77E1-489E-9CBD-EAE9F267C49C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

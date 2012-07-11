@@ -1,7 +1,7 @@
 ﻿using System;
-using Exyll.MollieTexting;
+using MollieTexting;
 
-namespace Exyll.MollieTextingConsole
+namespace MollieTextingConsole
 {
 	class Program
 	{

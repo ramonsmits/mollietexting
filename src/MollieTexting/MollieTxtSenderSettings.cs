@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace Exyll.MollieTexting
+namespace MollieTexting
 {
 	public class MollieTxtSenderSettings : ConfigurationSection
 	{

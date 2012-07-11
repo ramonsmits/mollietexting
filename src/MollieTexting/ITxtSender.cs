@@ -1,4 +1,4 @@
-namespace Exyll.MollieTexting
+namespace MollieTexting
 {
 	public interface ITxtSender
 	{

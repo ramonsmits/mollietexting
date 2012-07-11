@@ -1,6 +1,6 @@
 using System;
 
-namespace Exyll.MollieTexting
+namespace MollieTexting
 {
 	public interface IMollieTxtSender : ITxtSender
 	{

@@ -8,8 +8,8 @@
     <ProjectGuid>{BC69DB6E-2CDD-46FC-840C-ECDCC06BA320}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Exyll.MollieTexting</RootNamespace>
-    <AssemblyName>Exyll.MollieTexting</AssemblyName>
+    <RootNamespace>MollieTexting</RootNamespace>
+    <AssemblyName>MollieTexting</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

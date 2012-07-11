@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Xml;
 using System.Web;
 
-namespace Exyll.MollieTexting
+namespace MollieTexting
 {
 	public class MollieTxtSender : IMollieTxtSender
 	{

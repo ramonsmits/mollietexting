@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Exyll.MollieTexting
+namespace MollieTexting
 {
 	internal static class Util
 	{
