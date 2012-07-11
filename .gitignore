@@ -16,3 +16,7 @@ TestResults
 # Various cache folders like Resharper
 
 _*
+
+# Build folders
+
+build
